@@ -29,16 +29,6 @@
     },
     "variables": [
         {
-            "name": "Server Query Password",
-            "description": "The admin query password for the serveradmin",
-            "env_variable": "SERVERADMIN_PASSWORD",
-            "default_value": "changeme",
-            "user_viewable": true,
-            "user_editable": true,
-            "rules": "required|string|max:50",
-            "field_type": "text"
-        },
-        {
             "name": "Server Version",
             "description": "The version of Teamspeak 3 to use when running the server.",
             "env_variable": "TS_VERSION",
