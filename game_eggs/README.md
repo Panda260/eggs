@@ -1,4 +1,4 @@
-# Game Eggs
+﻿# Game Eggs
 
 [Among Us](among_us)
 
@@ -12,7 +12,11 @@
 
 [ClassiCube](classicube)
 
-* [MCGalaxy](classicube/mcgalaxy)
+[ClassiCube](classicube)
+
+* [CS2D](cs2d)
+
+[DDRaceNetwork](ddracenetwork/)
 
 [Doom](doom)
 * [Zandronum](doom/zandronum)
@@ -38,6 +42,7 @@
 * GTA SA
   * [Multi Theft Auto](gta/mtasa)
   * [SA-MP](gta/samp)
+  * [OpenMp](gta/openmp)
 
 * GTA
   * [GTAC](gta/gtac)
@@ -58,6 +63,7 @@
   * [PocketMine MP](minecraft/bedrock/pocketmine_mp)
 
 * [Java](minecraft/java) Servers for Java Minecraft
+  * [CurseForge](minecraft/java/curseforge)
   * [Cuberite](minecraft/java/cuberite)
   * [Fabric](minecraft/java/fabric)
   * [Feather](minecraft/java/feather)
@@ -104,6 +110,12 @@
 
 * [RedM](rdr/redm)
 
+[Spacestation 14](spacestation_14)
+
+[Rimworld](rimworld)
+
+* [Open World](rimworld/open_world)
+
 [Starmade](starmade)
 
 [SteamCMD Servers](steamcmd_servers) These eggs use SteamCMD to install
@@ -141,8 +153,10 @@
 * [Modiverse](steamcmd_servers/modiverse)
 * [Mordhau](steamcmd_servers/mordhau)
 * [No More Room in Hell](steamcmd_servers/nmrih)
+* [No One Survived](steamcmd_servers/no_one_survived)
 * [Onset](steamcmd_servers/onset)
 * [Open Fortress](steamcmd_servers/open_fortress)
+* [Operation Harsh Doorstop](steamcmd_servers/operation_harsh_doorstop)
 * [Pavlov VR](steamcmd_servers/pavlov_vr)
 * [PixARK](steamcmd_servers/pixark)
 * [Portal Knights](steamcmd_servers/portal_knights)
@@ -163,6 +177,7 @@
   * [Exiled](steamcmd_servers/scpsl/exiled)
   * [Multiadmin](steamcmd_servers/scpsl/multiadmin)
 * [Soldat](steamcmd_servers/soldat)
+* [Sons of the Forest](steamcmd_servers/sonsoftheforest)
 * [Space Engineers](steamcmd_servers/space_engineers)
   * [default](steamcmd_servers/space_engineers/default)
   * [torch](steamcmd_servers/space_engineers/torch)

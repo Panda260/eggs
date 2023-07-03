@@ -37,6 +37,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [parkertron](/bots/discord/parkertron) Golang
 * [pixel-bot](/bots/discord/pixelbot) Python
 * [Redbot](/bots/discord/redbot) Python
+* [Ree6](/bots/discord/ree6) Java
 * [SinusBot](/bots/discord/sinusbot)
 
 [Other](/bots/other)
@@ -106,7 +107,11 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 [ClassiCube](game_eggs/classicube)
 
+[CS2D](game_eggs/cs2d)
+
 * [MCGalaxy](game_eggs/classicube/mcgalaxy)
+
+[DDRaceNetwork](game_eggs/ddracenetwork)
 
 [Doom](game_eggs/doom)
 * [Zandronum](game_eggs/doom/zandronum)
@@ -132,6 +137,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * GTA SA
   * [Multi Theft Auto](game_eggs/gta/mtasa)
   * [SA-MP](game_eggs/gta/samp)
+  * [OpenMp](game_eggs/gta/openmp)
 
 * GTA
   * [GTAC](game_eggs/gta/gtac)
@@ -158,6 +164,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
   * [PocketMine MP](game_eggs/minecraft/bedrock/pocketmine_mp)
 
 * [Java](game_eggs/minecraft/java) Servers for Java Minecraft
+  * [CurseForge](game_eggs/minecraft/java/curseforge)
   * [Cuberite](game_eggs/minecraft/java/cuberite)
   * [Fabric](game_eggs/minecraft/java/fabric)
   * [Feather](game_eggs/minecraft/java/feather)
@@ -166,6 +173,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
   * [Glowstone](game_eggs/minecraft/java/glowstone)
   * [Limbo](game_eggs/minecraft/java/limbo)
   * [Magma](game_eggs/minecraft/java/magma)
+  * [Modrinth](game_eggs/minecraft/java/modrinth)
   * [Mohist](game_eggs/minecraft/java/mohist)
   * [NanoLimbo](game_eggs/minecraft/java/nanolimbo)
   * [Paper](game_eggs/minecraft/java/paper)
@@ -204,6 +212,12 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 * [RedM](game_eggs/rdr/redm)
 
+[Spacestation 14](game_eggs/spacestation_14)
+
+[Rimworld](game_eggs/rimworld)
+
+* [Open World](game_eggs/rimworld/open_world)
+
 [SteamCMD Servers](game_eggs/steamcmd_servers) These eggs use SteamCMD to install
 
 * [7 Days to Die](game_eggs/steamcmd_servers/7_days_to_die)
@@ -241,8 +255,10 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Modiverse](game_eggs/steamcmd_servers/modiverse)
 * [Mordhau](game_eggs/steamcmd_servers/mordhau)
 * [No More Room in Hell](game_eggs/steamcmd_servers/nmrih)
+* [No One Survived](game_eggs/steamcmd_servers/no_one_survived)
 * [Onset](game_eggs/steamcmd_servers/onset)
 * [Open Fortress](game_eggs/steamcmd_servers/open_fortress)
+* [Operation Harsh Doorstop](game_eggs/steamcmd_servers/operation_harsh_doorstop)
 * [Pavlov VR](game_eggs/steamcmd_servers/pavlov_vr)
 * [PixARK](game_eggs/steamcmd_servers/pixark)
 * [Portal Knights](game_eggs/steamcmd_servers/portal_knights)
@@ -261,6 +277,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
   * [exiled](game_eggs/steamcmd_servers/scpsl/exiled)
   * [multiadmin](game_eggs/steamcmd_servers/scpsl/multiadmin)
 * [Soldat](game_eggs/steamcmd_servers/soldat)
+* [Sons of the Forest](game_eggs/steamcmd_servers/sonsoftheforest)
 * [Space Engineers](game_eggs/steamcmd_servers/space_engineers)
   * [default](game_eggs/steamcmd_servers/space_engineers/default)
   * [torch](game_eggs/steamcmd_servers/space_engineers/torch)
@@ -344,6 +361,10 @@ If you are reading this it looks like you are looking to add an egg to your serv
 ### Elasticsearch
 
 * [Elasticsearch](/software/elasticsearch)
+
+### Folding@Home
+
+* [Folding@Home](/software/foldingathome)
 
 ### Gitea
 
